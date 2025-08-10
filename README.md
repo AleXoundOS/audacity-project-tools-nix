@@ -1,0 +1,5 @@
+# build
+
+```console
+$ nix build
+```
